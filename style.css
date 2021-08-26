@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: cornflowerblue;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h1{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+}
+
+input{
+    height: 50px;
+    width: 200px;
+    border: none;
+    outline: none;
+    font-size:25px;
+}
+
+select{
+    height: 52px;
+    width: 90px;
+    border:none;
+    color: white;
+    background-color: rgb(11, 87, 138);
+    outline: none;
+}
