@@ -1,6 +1,6 @@
 # Convertisseur_Devises
 
-Convertisseur de devises
+Currency converter
 
 - Dollars
 - Euros
